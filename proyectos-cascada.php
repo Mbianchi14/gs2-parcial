@@ -1,0 +1,1 @@
+Aplica para proyectos donde los requerimientos sean claros y sin posibilidad de cambios durante el desarrollo
