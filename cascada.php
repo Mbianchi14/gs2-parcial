@@ -1,0 +1,5 @@
+Requerimientos
+Diseño
+Desarrollo o programación
+Verificacion o pruebas
+Mantenimiento
