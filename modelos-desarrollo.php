@@ -1,0 +1,3 @@
+Cascada
+Espiral
+Repetitivo
